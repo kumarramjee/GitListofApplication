@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubRepoApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_git_project_list_activtiy">GitProjectListActivtiy</string>
+    <string name="title_activity_git_project_list_detail">GitProjectListDetailActivity</string>
+    <string name="UserName">Username</string>
+</resources>
